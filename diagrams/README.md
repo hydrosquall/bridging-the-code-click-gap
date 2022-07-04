@@ -6,6 +6,10 @@ A small demo showing how Excalidraw diagrams can be embedded into a README when 
 
 To try this live, press `.` when viewing this page on the web, and install the Excalidraw extension. It will also work with local VSCode installations.
 
+If you want to share the diagram without making a pull request, you can copy paste the diagram contents to the public version of Excalidraw.
+
+- <https://excalidraw.com/>
+
 ## Related links
 
 - I maintain the Figma/Figjam Excalidraw [Widget](https://www.figma.com/community/widget/1047391719101881118)

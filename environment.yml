@@ -1,5 +1,6 @@
 dependencies:
   - pandas
   - geopandas
+  - mitosheet
   - pip:
       - keplergl
