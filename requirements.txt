@@ -1,0 +1,4 @@
+pandas
+jupyterlab
+keplergl
+mitosheet
