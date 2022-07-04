@@ -15,3 +15,26 @@ This same feature (storing app data in PNG, SVG, and JSON formats) is supported 
 
 - TLDraw: <https://www.npmjs.com/package/tldraw-vscode>
 - Draw.io: <https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio>
+
+### Appendix
+
+Test datasets to demonstrate the copy-paste feature
+
+## Test dataset
+
+Breakdown one
+
+```
+category,count
+code,60
+click,12
+```
+
+Breakdown two
+
+```
+code_category,count
+python,20
+r,30
+javascript,10
+```

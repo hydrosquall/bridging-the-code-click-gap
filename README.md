@@ -1,24 +1,11 @@
 
-# Low Code: Environment
+# Bridging the code-click gap with low-code data visualization
 
-This repository is in-progress.
+> Repository documentation is in-progress.
 
-## Test dataset
+Demo folder:
 
-Example 2 tier
-
-```
-category,count
-code,60
-click,12
-```
-
-```
-code_category,count
-python,20
-r,30
-javascript,10
-```
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hydrosquall/bridging-the-code-click-gap/HEAD)
 
 
 ## Development
@@ -30,3 +17,13 @@ pyenv virtualenv 3.9.10 jupyter-3-9-10
 pyenv activate jupyter-3-9-10
 pip install jupyterlab pandas keplergl geopandas mitosheet
 ```
+
+## Acknowledgements
+
+- Many of the demos in this repository are built on the work of non-commercial open source projects, in particular
+  - The Jupyter / PyData (computational notebooks)
+  - The Vega organization (data visualization)
+  - Datasette (data sharing)
+  - Kepler.gl (geospatial)
+
+The `code-click` terminology was coined by Naomi B. Robbins while workshopping a title for this presentation.
