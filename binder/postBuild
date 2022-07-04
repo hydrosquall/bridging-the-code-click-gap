@@ -2,7 +2,7 @@
 
 # From mito monorepo docs
 # https://github.com/mito-ds/monorepo/blob/dev/binder/postBuild
-# python -m pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ mitosheet
+python -m pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ mitosheet
 
 jupyter nbextension install mitosheet --py --user
 jupyter nbextension enable mitosheet --py --user
